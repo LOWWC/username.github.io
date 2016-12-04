@@ -1,0 +1,90 @@
+body{
+	background-color: #FEE7F9;
+	font-family: "courier new",courier,monospace;
+	background: black;
+	font-size: 20px;
+
+}
+
+.select-anything {
+	background: white;
+}
+
+.my-name {
+	position:relative;
+	overflow:hidden;
+
+}
+
+.my-name h1{
+	padding : 150px;
+	position: relative;
+	z-index: 2;
+	font-size: 75px;
+	font:white;
+
+}
+
+.my-name img {
+	position: absolute;
+	left:0;
+	top: 0;
+	width:100%;
+	height:auto;
+	opacity: 0.7;
+
+}
+
+
+.my-name{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:white;
+	background-color: white;
+	width: 100%;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+.about-me{
+	font-size: 20px;
+	font-family: 'Roboto Slab', serif;
+	margin-top: 100px;
+	margin-bottom: 20px;
+	text-align: right;
+}
+
+.about-me u {
+	font-size: 30px;
+	color: white;
+}
+
+.about-me p {
+
+	color: white;
+
+}
+
+.my-pic{
+	text-align: center;
+	margin-top: 20px;
+}
+
+.contact{
+	text-align: center;
+	font-size: 50px;
+	margin-bottom: 20px;
+
+}
+
+.press-like {
+	margin-bottom: 150px;
+	font-size: 80px;
+	text-align: right;
+	margin-right: 150px;
+}
+
+.press-like button {
+	font-family:"verdana"
+}
